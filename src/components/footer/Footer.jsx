@@ -101,7 +101,7 @@ const Footer = () => {
             />
           </div>
           <p className="text-lg ml-6 text-white">
-            Made by : <strong>Team Silent-Killer</strong>
+            Made by : <strong>KRISHI-SARTHI</strong>
           </p>
         </div>
         <div className="flex-1 flex mr-6">
