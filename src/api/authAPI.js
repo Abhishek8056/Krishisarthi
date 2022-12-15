@@ -3,7 +3,7 @@ import instance from "./config";
 import Cookies from "js-cookie";
 
 //const url = " ";
-const url = "http://localhost:5000";
+const url = "http://localhost:3000";
 
 export const postRegisterData = async ({
   first_name,
